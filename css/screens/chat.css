@@ -1,15 +1,16 @@
 #chat-screen {
-  background-color: #abc1d1;
-  height: 500vh;
+  background-image: linear-gradient(to right, #abbaab, #ffffff);
+  height: 150vh;
 }
 #chat-screen .alt-header {
   position: fixed;
   width: 100%;
   box-sizing: border-box;
+  background-image: linear-gradient(to right, #abbaab, #ffffff);
 }
 #chat-screen .alt-header,
 #chat-screen .status-bar {
-  background-color: #abc1d1;
+  background-color: white;
 }
 
 @keyframes fadeIn {

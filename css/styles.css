@@ -24,11 +24,11 @@
 @import "screens/chat.css";
 
 body {
-  color: #2f363e;
+  color: #003610;
   font-family: "Open Sans", sans-serif;
-  height: 1000vh;
+  height: 150vh;
+  background-image: linear-gradient(to right, #a1ffce, #faffd1);
 }
-
 .main-screen {
   padding: 0px var(--horizontal-space);
 }

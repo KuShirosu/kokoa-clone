@@ -8,7 +8,7 @@
   top: 0;
   width: 100%;
   box-sizing: border-box;
-  background-color: white;
+  background-image: linear-gradient(to right, #aaffa9, #11ffbd);
 }
 .screen-header__title {
   font-size: 32px;
